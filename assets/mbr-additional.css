@@ -14,6 +14,7 @@ body {
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
+  color: #ff8500 !important;
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
@@ -22,6 +23,7 @@ body {
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
+  color: #ff8500 !important;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -30,6 +32,7 @@ body {
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
+  color: #ff8500 !important;
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
@@ -38,6 +41,7 @@ body {
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
+  color: #ff8500 !important;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -46,6 +50,7 @@ body {
 }
 .display-7 > .mbr-iconfont {
   font-size: 1.6rem;
+  color: #ff8500 !important;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -552,6 +557,7 @@ a:hover {
 }
 .form-control > .mbr-iconfont {
   font-size: 1.6rem;
+  color: #ff8500 !important;
 }
 blockquote {
   border-color: #fb8400;
@@ -605,6 +611,7 @@ blockquote {
   }
   .btn .mbr-iconfont {
     font-size: 1rem !important;
+    color: #ff8500 !important;
   }
 }
 /* Footer */
@@ -750,6 +757,7 @@ section.lazy-placeholder:after {
 }
 .cid-rTrNeyvJcE .btn .mbr-iconfont {
   font-size: 1.6rem;
+  color: #ff8500 !important;
 }
 .cid-rTrNeyvJcE .menu-logo {
   margin-right: auto;
@@ -784,6 +792,7 @@ section.lazy-placeholder:after {
 }
 .cid-rTrNeyvJcE .menu-logo .navbar-brand .navbar-logo .mbr-iconfont {
   transition: font-size 0.25s;
+  color: #ff8500 !important;
 }
 .cid-rTrNeyvJcE .menu-logo .navbar-brand .navbar-logo a {
   display: inline-flex;
@@ -856,6 +865,7 @@ section.lazy-placeholder:after {
 }
 .cid-rTrNeyvJcE .navbar.navbar-short .navbar-logo a .mbr-iconfont {
   font-size: 2.5rem !important;
+  color: #ff8500 !important;
 }
 .cid-rTrNeyvJcE .navbar.navbar-short .navbar-logo a img {
   height: 3rem !important;
@@ -1364,6 +1374,7 @@ section.lazy-placeholder:after {
   z-index: 3;
   top: 13px;
   left: 13px;
+  color: #ff8500 !important;
 }
 .cid-rTVovRF8h9 .separline:before {
   top: 20px;
